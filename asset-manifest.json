@@ -1,0 +1,24 @@
+{
+  "files": {
+    "static/js/0.e59cde0c.chunk.js": "/rnmortyFav/static/js/0.e59cde0c.chunk.js",
+    "static/js/0.e59cde0c.chunk.js.map": "/rnmortyFav/static/js/0.e59cde0c.chunk.js.map",
+    "main.css": "/rnmortyFav/static/css/main.980f7af8.chunk.css",
+    "main.js": "/rnmortyFav/static/js/main.34569d79.chunk.js",
+    "main.js.map": "/rnmortyFav/static/js/main.34569d79.chunk.js.map",
+    "runtime-main.js": "/rnmortyFav/static/js/runtime-main.00213b0a.js",
+    "runtime-main.js.map": "/rnmortyFav/static/js/runtime-main.00213b0a.js.map",
+    "static/js/3.ec34271d.chunk.js": "/rnmortyFav/static/js/3.ec34271d.chunk.js",
+    "static/js/3.ec34271d.chunk.js.map": "/rnmortyFav/static/js/3.ec34271d.chunk.js.map",
+    "index.html": "/rnmortyFav/index.html",
+    "precache-manifest.a16ba49ea5f121fe9a373cd4fe4753c6.js": "/rnmortyFav/precache-manifest.a16ba49ea5f121fe9a373cd4fe4753c6.js",
+    "service-worker.js": "/rnmortyFav/service-worker.js",
+    "static/css/main.980f7af8.chunk.css.map": "/rnmortyFav/static/css/main.980f7af8.chunk.css.map",
+    "static/js/3.ec34271d.chunk.js.LICENSE.txt": "/rnmortyFav/static/js/3.ec34271d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00213b0a.js",
+    "static/js/3.ec34271d.chunk.js",
+    "static/css/main.980f7af8.chunk.css",
+    "static/js/main.34569d79.chunk.js"
+  ]
+}
